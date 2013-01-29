@@ -1,0 +1,76 @@
+/**
+ * The content in this file are adapted from the Skeleton Framework. Licenced under the MIT licence.
+ * http://getskeleton.com
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+
+/* ########## CONTAINER ########## */
+
+.container {
+	position: relative;
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* ########## COLUMNS ########## */
+
+.row {
+	overflow: hidden;
+}
+
+.row.show-columns .column, .row.show-columns .columns {
+	background: #ddd;
+	-webkit-border-radius: 3px;
+}
+
+.show-columns .row .columns {
+	background: #ccc;
+}
+
+.column, .columns {
+	float: left;
+	display: inline;
+	margin-left: 20px;
+}
+
+.row {
+	margin-bottom: 20px;
+}
+
+.row .column, .row .columns:first-child {
+	margin-left: 0;
+}
+
+.row .one.column        { width: 40px;  }
+.row .two.columns       { width: 100px; }
+.row .three.columns     { width: 160px; }
+.row .four.columns      { width: 220px; }
+.row .five.columns      { width: 280px; }
+.row .six.columns       { width: 340px; }
+.row .seven.columns     { width: 400px; }
+.row .eight.columns     { width: 460px; }
+.row .nine.columns      { width: 520px; }
+.row .ten.columns       { width: 580px; }
+.row .eleven.columns    { width: 640px; }
+.row .twelve.columns    { width: 700px; }
+.row .thirteen.columns  { width: 760px; }
+.row .fourteen.columns  { width: 820px; }
+.row .fifteen.columns   { width: 880px; }
+.row .sixteen.columns   { width: 940px; }
+
+.row .offset-by-one       { padding-left: 60px;  }
+.row .offset-by-two       { padding-left: 120px; }
+.row .offset-by-three     { padding-left: 180px; }
+.row .offset-by-four      { padding-left: 240px; }
+.row .offset-by-five      { padding-left: 300px; }
+.row .offset-by-six       { padding-left: 360px; }
+.row .offset-by-seven     { padding-left: 420px; }
+.row .offset-by-eight     { padding-left: 480px; }
+.row .offset-by-nine      { padding-left: 540px; }
+.row .offset-by-ten       { padding-left: 600px; }
+.row .offset-by-eleven    { padding-left: 660px; }
+.row .offset-by-twelve    { padding-left: 720px; }
+.row .offset-by-thirteen  { padding-left: 780px; }
+.row .offset-by-fourteen  { padding-left: 840px; }
+.row .offset-by-fifteen   { padding-left: 900px; }

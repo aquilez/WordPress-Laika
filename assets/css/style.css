@@ -1,0 +1,285 @@
+/* ========== BODY ========== */
+
+body {
+	background: #fff;
+	color: #000;
+	font: 75%/1.5em "Helvetica Neue", Helvetica, "Trebuchet MS", Arial, Verdana, Tahoma, "DejaVu Sans", "Liberation sans", "Bitstream Vera Sans", sans-serif;
+}
+
+/* ========== WORDPRESS POST STUFF ========== */
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
+.clear {
+	clear: both;
+}
+
+.entry-content img {
+	margin: 0 0 1.5em 0;
+}
+
+.alignleft, img.alignleft {
+	display: inline;
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+.alignright, img.alignright {
+	display: inline;
+	float: right;
+	margin:0 0 10px 10px;
+}
+
+.aligncenter, img.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.wp-caption {
+	border: 1px solid #ccc;
+	text-align: center;
+	background: #f1f1f1;
+}
+
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	padding-bottom: 5px;
+	margin: 0;
+}
+
+.wp-smiley {
+	max-height: 1em;
+	margin:0 !important;
+	border: none !important;
+}
+
+.gallery dl {
+	margin: 0;
+}
+
+.gallery-caption {
+	margin:-1.5em 0 0 0;
+}
+
+blockquote.left {
+	float: left;
+	margin-left: 0;
+	margin-right: 20px;
+	text-align: right;
+	width: 33%;
+}
+
+blockquote.right {
+	float: right;
+	margin-left: 20px;
+	margin-right: 0;
+	text-align: left;
+	width: 33%;
+}
+
+/* ========== PAGE HEADER ========== */
+
+#header {
+
+}
+
+/* ========== PAGE CONTENT ========== */
+
+#content {
+
+}
+
+/* ========== PAGE SIDEBAR ========== */
+
+#sidebar {
+
+}
+
+/* ========== PAGE FOOTER ========== */
+
+#footer {
+
+}
+
+/* ========== DISPLAY: POST ========== */
+
+article {
+	overflow: hidden;
+}
+
+	article.sticky {
+
+	}
+
+	article header {
+
+	}
+
+	article figure.post-thumbnail {
+
+	}
+
+	article .post-content {
+
+	}
+
+	article .post-excerpt {
+
+	}
+
+	article nav {
+
+	}
+
+	article #post-author {
+
+	}
+
+		article #post-author #author-description {
+
+		}
+
+			article #post-author #author-description #author-link {
+
+			}
+
+	article footer {
+
+	}
+
+/* ========== DISPLAY: PAGE.PHP ========== */
+
+article.page {
+
+}
+
+	article.page .post-content {
+
+	}
+
+/* ========== DISPLAY: AUTHOR ========== */
+
+.author {
+
+}
+
+	.author .avatar {
+
+	}
+
+	.author .p {
+
+	}
+
+#recent-posts {
+
+}
+
+	#recent-posts ul {
+
+	}
+
+		#recent-posts ul li {
+
+		}
+
+/* ========== DISPLAY: 404 PAGE ========== */
+
+#error-404 {
+
+}
+
+/* ========== COMMON: NAVIGATION / PAGINATION ========== */
+
+nav {
+
+}
+
+nav.primary {
+
+}
+
+nav.oldernewer {
+
+}
+
+	nav.oldernewer .older {
+
+	}
+
+	nav.oldernewer .newer {
+
+	}
+
+/* ========== COMMON: WIDGETS ========== */
+
+.widget {
+
+}
+
+/* ========== COMMON: COMMENTS ========== */
+
+#comments {
+
+}
+	#comments_list li.comment {
+
+	}
+
+		#comments_list li.comment .comment-text {
+
+		}
+
+		#comments_list li.comment .comment-meta {
+
+		}
+
+			#comments_list li.comment .comment-meta p.gravatar {
+
+			}
+
+	#comments_list li.bypostauthor {
+
+	}
+
+	#comments_list li.odd {
+
+	}
+
+	#comments_list li.even {
+
+	}
+
+	#pings_list {
+
+	}
+
+		#pings_list li.pingback {
+
+		}
+
+	#comments-form {
+
+	}
+
+		#respond {
+
+		}
+
+		.cancel-comment-reply-link {
+
+		}
